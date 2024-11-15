@@ -1,2 +1,2 @@
 # Customer-Churn-Analysis
-A predictive analytics project to identify telecom customers likely to churn, using machine learning and key insights from data analysis
+This project focuses on predicting customer churn in the telecom industry using machine learning. Key insights from the analysis revealed that customers with month-to-month contracts, higher monthly charges, and shorter tenure are more likely to churn. The Random Forest Classifier achieved an accuracy of 78.67%, with monthly charges, tenure, and contract type identified as the top predictors of churn. These insights can help design targeted retention strategies.
